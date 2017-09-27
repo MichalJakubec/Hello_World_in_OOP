@@ -1,0 +1,1 @@
+Class Speaker, new instance new Speaker says Hello World to everybody!!!
